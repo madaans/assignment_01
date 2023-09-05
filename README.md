@@ -30,3 +30,7 @@ WE CAN STORE OUR TEAM WORK WITHOUT WORRYING ABOUT LOSTING IT
 -'git branch' : to check branch
 -'git merge' : combine changes from another branch
 -'git checkout' : to navigate to another branch
+# My Unique Touch 
+## DESCRIBE SOMETHING THAT SETS YOU APART FROM OTHERS:
+-I AM KRISHNA CONSIOUS
+- ALWAYS WILLING TO LEARN SOMETHING NEW 
