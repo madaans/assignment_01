@@ -5,3 +5,7 @@ My First Assignment
 Sanchi Madaan
 ## Assignment
 ASSIGNMENT_01 IS MY FIRST ASSIGNMENT OF SOFTWARE DEVELOPMENT FUNDAMENTALS
+# First git status output:
+[output]
+# Second git status output:
+[output]
